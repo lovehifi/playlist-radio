@@ -10,5 +10,6 @@ If using it for LMS, copy the playlist_radio folder to your Pi. In the Server me
 [Download playlist_radio.tgz](https://raw.githubusercontent.com/lovehifi/playlist-radio/main/playlist_radio.tgz)
 
 ## Download to Pi
-wget https://raw.githubusercontent.com/lovehifi/playlist-radio/main/playlist_radio.tgz
-tar -xzvf playlist_radio.tgz -C /mnt/
+> wget https://raw.githubusercontent.com/lovehifi/playlist-radio/main/playlist_radio.tgz
+> 
+> tar -xzvf playlist_radio.tgz -C /mnt/
