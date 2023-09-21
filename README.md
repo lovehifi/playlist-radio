@@ -1,3 +1,5 @@
+# Radios playlist
+>
 Here are 35 Radio Playlist files, with approximately 800 - 900 Music Radios.
 
 You can add and listen to them using any program (phone, foobar2000, Pi, LMS...).
@@ -15,7 +17,7 @@ If using it for LMS, In the Server menu, go to Playlists Folder, choose the path
 >
 ---------------------
 >
-# Radios playlists
+## Radios list
 ### Radios playlist Klassikradio.de (192kbps)
 	Radio: New Classics
 		URL: http://stream.klassikradio.de/newclassics/mp3-192/www.klassikradio.de/
