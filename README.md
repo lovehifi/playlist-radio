@@ -18,7 +18,7 @@ If using it for LMS, In the Server menu, go to Playlists Folder, choose the path
 >
 -------------------
 >
-## Here's an additional way to use it for LMS:
+## Additional way to use it for LMS:
 >
 Click on "Favorites," then "Edit," "Import," navigate to the playlist-radio.opml file, and click the "Import" button.
 >
