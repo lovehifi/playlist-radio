@@ -27,6 +27,9 @@ Click on "Favorites," then "Edit," "Import," navigate to the playlist-radio.opml
 
 >
 ![Screenshot](screenshot.jpg)
+>
+![Screenshot](Radio-Fav.jpg)
+>
 ---------------------
 >
 ## Radios list
