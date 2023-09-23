@@ -9,6 +9,8 @@ You can add and listen to them using any program (phone, foobar2000, Pi, LMS...)
 >
 -------------------
 >
+Usage differs for LMS:
+>
 Click on "Favorites," then "Edit," "Import," navigate to the playlist-radio.opml file, and click the "Import" button.
 >
 [Download file playlist-radio.opml](https://raw.githubusercontent.com/lovehifi/playlist-radio/main/playlist-radio.opml)
