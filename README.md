@@ -6,6 +6,9 @@ You can add and listen to them using any program (phone, foobar2000, Pi, LMS...)
 
 ## Download link
 [Download playlist_radio.tgz](https://raw.githubusercontent.com/lovehifi/playlist-radio/main/playlist_radio.tgz)
+>
+[Download file 900_radios.opml](https://raw.githubusercontent.com/lovehifi/playlist-radio/main/900_radios.opml)
+>
 
 --------------------
 ## Download to your Pi
