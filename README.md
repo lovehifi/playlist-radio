@@ -149,7 +149,7 @@ Click on "Favorites," then "Edit," "Import," navigate to the playlist-radio.opml
 	Radio: Страна FM (256kbps)
 		URL: http://icecast.stranafm.cdnvideo.ru/stranafm_256
 	Radio: Радио СИ, Екатеринбург (128kbps)
-		URL: http://188.254.50.254:8000/radioc256
+		URL: https://online.radioc.ru/radioc
 	Radio: Хиты России - Рига (128kbps)
 		URL: http://stream.superfm.lv:8000/khr.mp3
 	Radio: Ретро FM 80-е (128kbps)
